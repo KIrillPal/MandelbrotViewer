@@ -1,0 +1,50 @@
+﻿  SnowKOH.cpp
+E:\Desktop\Проекты\SnowKOH\SnowKOH\SnowKOH.cpp(85): warning C4244: =: преобразование "double" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnowKOH\SnowKOH\SnowKOH.cpp(86): warning C4244: =: преобразование "double" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnowKOH\SnowKOH\SnowKOH.cpp(87): warning C4244: =: преобразование "double" в "sf::Uint8", возможна потеря данных
+E:\Desktop\Проекты\SnowKOH\SnowKOH\SnowKOH.cpp(196): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnowKOH\SnowKOH\SnowKOH.cpp(197): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnowKOH\SnowKOH\SnowKOH.cpp(198): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnowKOH\SnowKOH\SnowKOH.cpp(199): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnowKOH\SnowKOH\SnowKOH.cpp(200): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnowKOH\SnowKOH\SnowKOH.cpp(201): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnowKOH\SnowKOH\SnowKOH.cpp(202): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+E:\Desktop\Проекты\SnowKOH\SnowKOH\SnowKOH.cpp(203): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода
+  0 of 231 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SnowKOH.vcxproj -> E:\Desktop\Проекты\SnowKOH\x64\Release\SnowKOH.exe
