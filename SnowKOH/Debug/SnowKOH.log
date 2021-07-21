@@ -1,4 +1,0 @@
-﻿  ScrollWindow.cpp
-  SnowKOH.cpp
-  Создание кода...
-sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "x86"

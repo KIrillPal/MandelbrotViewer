@@ -1,7 +1,0 @@
-﻿  SnowKOH.cpp
-E:\Documents\Visual Studio 2019\Projects\SnowKOH\SnowKOH\SnowKOH.cpp(75): warning C4244: =: преобразование "double" в "sf::Uint8", возможна потеря данных
-E:\Documents\Visual Studio 2019\Projects\SnowKOH\SnowKOH\SnowKOH.cpp(76): warning C4244: =: преобразование "double" в "sf::Uint8", возможна потеря данных
-E:\Documents\Visual Studio 2019\Projects\SnowKOH\SnowKOH\SnowKOH.cpp(77): warning C4244: =: преобразование "double" в "sf::Uint8", возможна потеря данных
-E:\Documents\Visual Studio 2019\Projects\SnowKOH\SnowKOH\SnowKOH.cpp(169): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
-E:\Documents\Visual Studio 2019\Projects\SnowKOH\SnowKOH\SnowKOH.cpp(170): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
-  SnowKOH.vcxproj -> E:\Documents\Visual Studio 2019\Projects\SnowKOH\x64\Debug\SnowKOH.exe
